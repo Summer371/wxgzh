@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "公众号",
+    "link": "https://t.hk.uy/bGpW"
+  },
+  {
+    "icon": "Cloud",
+    "name": "茅台",
+    "link": "http://www.xgtech.top:2333/maotai/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "画板",
+    "link": "https://ext.dcloud.net.cn/plugin?id=15857"
+  },
+  {
+    "icon": "Compass",
+    "name": "电影",
+    "link": "http://xiepp.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "资源集",
+    "link": "https://t.hk.uy/bGpU"
+  },
+  {
+    "icon": "Fire",
+    "name": "logo",
+    "link": "https://www.logoly.pro/#/"
+  }
+]

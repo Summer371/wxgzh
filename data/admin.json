@@ -1,0 +1,20 @@
+[
+	{
+		"username": "admin",
+		"password": "123456",
+		"id": 1,
+		"createTime": "2024-06-12 17:19:43"
+	},
+	{
+		"username": "xiaogang",
+		"password": "123456",
+		"id": 2,
+		"createTime": "2024-06-12 17:19:43"
+	},
+	{
+		"username": "root",
+		"password": "123456",
+		"id": 6,
+		"createTime": "2024-06-12 17:19:43"
+	}
+]

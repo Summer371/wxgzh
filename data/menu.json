@@ -1,0 +1,19 @@
+{
+  "button": [
+      {
+          "type": "click",
+          "name": "领取资料",
+          "key": "V1001_lingqu"
+      },
+      {
+          "type": "click",
+          "name": "联系我们",
+          "key": "V1001_call"
+      },
+      {
+          "type": "click",
+          "name": "赞一下我们",
+          "key": "V1001_GOOD"
+      }
+  ]
+}

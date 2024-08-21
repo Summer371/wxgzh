@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Github",
+    "icon": "icon-github",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/Summer371"
+  },
+  {
+    "name": "CSDN",
+    "icon": "icon-csdn",
+    "tip": "中国专业IT社区",
+    "url": "https://blog.csdn.net/summer371?type=blog"
+  },
+  {
+    "name": "QQ",
+    "icon": "icon-qq1",
+    "tip": "有什么事吗",
+    "url": "https://telegraph-image-ajy.pages.dev/file/db3dd83f4a27c7a7b50e7.png"
+  },
+  {
+    "name": "Email",
+    "icon": "icon-youxiang1",
+    "tip": "来封 Email ~",
+    "url": "mailto:xiaogangtechnology@163.com"
+  },
+  {
+    "name": "小红书",
+    "icon": "icon-xiaohongshu2",
+    "tip": "你懂的 ~",
+    "url": "https://www.xiaohongshu.com/user/profile/649426600000000012035dc0"
+  },{
+    "name": "公众号",
+    "icon": "icon-gongzhonghao",
+    "tip": "关注我吧",
+    "url": "https://telegraph-image-ajy.pages.dev/file/cd2c5825eeb4229beced7.png"
+  }
+]
